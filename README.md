@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Aratrika! 👋
+I am a B.Tech student focused on the intersection of **Artificial Intelligence** and **Bioinformatics**.
+
+## 🛠️ Technical Toolkit
+- **Languages:** Python (Pandas, Scikit-Learn, Matplotlib)
+- **ML Focus:** Classification, Predictive Modeling, Clinical Diagnostics
+- **Tools:** Git, Linux, Jupyter
+
+## 🚀 Featured Project
+### [Breast Cancer Diagnostic AI](https://github.com/AratrikaB-tech/Breast-Cancer-AI-Diagnostic)
+An end-to-end pipeline achieving **99% recall** for malignant tumor detection.
 
 <!--
 **AratrikaB-tech/AratrikaB-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
