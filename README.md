@@ -7,11 +7,11 @@ I am a B.Tech student focused on the intersection of **Artificial Intelligence**
 - **Tools:** Git, Linux, Jupyter
 
 ## FEATURED PROJECTS
-* *Breast Cancer Diagnostic AI model*
+* *Breast Cancer Diagnostic AI model* : 
 An end-to-end pipeline achieving **99% recall** for malignant tumor detection.
 
-* *Neuro-SingleCell-Trajectory*
+* *Neuro-SingleCell-Trajectory*  : 
 Single-cell RNA-seq trajectory analysis of the developing human brain (GSE132730) using Scanpy.
 
-* *E-Commerce RFM Analytics Pipeline* 
-End-to-end customer segmentation pipeline utilizing Python, SQLite, K-Means clustering, and Looker Studio.
+* *E-Commerce RFM Analytics Pipeline* : 
+End-to-end pipeline (Pandas, SQLite, K-Means) segmenting customers by purchase behavior, deployed as a [live interactive Streamlit app](https://ecommerce-rfm-analytics-proj-1-ix6y3nsdxvyzysqt2uzzqq.streamlit.app/).
